@@ -5,7 +5,7 @@ date_format: "%Y-%m-%d"
 
 # Build settings
 kramdown:
-  input: GFM
+input: GFM
 permalink: pretty
 
 # Third-party services
